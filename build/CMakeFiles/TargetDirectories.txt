@@ -1,0 +1,8 @@
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/debug.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/distclean.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/info.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/release.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/run.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/runclean.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/step-27.dir
+/home/carlo/Documents/LJLL/deal.II-dev/examples/hp-modified/build/CMakeFiles/strip_comments.dir
